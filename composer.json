@@ -1,0 +1,8 @@
+{
+    "require": {
+        "bensquire/php-image-optim": "dev-master",
+        "tubalmartin/cssmin": "dev-master",
+        "gkralik/php-uglifyjs": "dev-master",
+        "aws/aws-sdk-php": "~2.6"
+    }
+}
